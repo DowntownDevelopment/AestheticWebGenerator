@@ -1,0 +1,6 @@
+{
+  "name": "A E S T H E T I C Webpage Generator",
+  "tagline": "A web generator made in Python.",
+  "body": "# A E S T H E T I C Webpage Generator\r\n\r\n## Creates random webpages using Python and the Giphy API.\r\n\r\n### Created and Maintained by:\r\n- [Downtown Development] (https://github.com/DowntownDevelopment)\r\n\r\nLast Updated: 08/31/2016\r\n\r\n### Requirements\r\n- Python 3+\r\n- pip\r\n- A rebellious attitude\r\n\r\n### Installation\r\n1. download zip or clone repo\r\n2. run `pip install -r requirements.txt`\r\n3. open index.html in your favorite browser (internet explorer 6)\r\n4. google pictures of cute kittens to unsee what you have seen.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
